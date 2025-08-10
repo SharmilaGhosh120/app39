@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+scikit-learn
+bcrypt
+requests
+sentence-transformers
+faiss-cpu
